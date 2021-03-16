@@ -1,2 +1,4 @@
 # spotify-tui-theme-dracula
-my attempt at a dracula theme for Spotify-tui
+
+My attempt at a dracula theme for Spotify-tui.
+Built ontop of the sample config.
